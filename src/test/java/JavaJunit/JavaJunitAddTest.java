@@ -8,7 +8,7 @@ public class JavaJunitAddTest {
 
 	@Test
 	public void testAdd() {
-		
+		JavaJunitAdd a = new JavaJunitAdd();
 	}
 
 }
